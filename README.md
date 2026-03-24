@@ -15,6 +15,3 @@ Currently exploring quantitative trading, Python projects, and automation.
 - Data analysis
 - Python
 - Strategy development
-
-## Fun fact
-Cute profile, serious code.
