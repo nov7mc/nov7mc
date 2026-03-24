@@ -1,4 +1,4 @@
-# Hi, I'm Yunye ✨
+# Hi, I'm Yun ✨
 
 💖 Quant trading learner  
 💻 Building bots, testing ideas, and learning every day  
