@@ -1,4 +1,4 @@
-# Hi, I'm Yun ✨
+# Hi, I'm Nov ✨
 
 💖 Quant trading learner  
 💻 Building bots, testing ideas, and learning every day  
