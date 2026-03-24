@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Yunye ✨
 
-<!--
-**nov7mc/nov7mc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💖 Quant trading learner  
+💻 Building bots, testing ideas, and learning every day  
+📈 Interested in research, data, strategy, and execution  
+🦄 My avatar is Rarity, because elegance matters
 
-Here are some ideas to get you started:
+## About me
+I like building things that are useful, pretty, and a little bit clever.  
+Currently exploring quantitative trading, Python projects, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Quant research
+- Trading bots
+- Data analysis
+- Python
+- Strategy development
+
+## Fun fact
+Cute profile, serious code.
